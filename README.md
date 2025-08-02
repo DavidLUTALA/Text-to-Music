@@ -100,7 +100,7 @@ python Text-to-Music.py
 
 📧 [davidlutala0@gmail.com]
 
-🌍 [LinkedIn : David LUTALA](https://www.linkedin.com/in/david-lutala-719952164/)]
+🌍 [LinkedIn : David LUTALA](https://www.linkedin.com/in/david-lutala-719952164/)
 
 
 
