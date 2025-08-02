@@ -98,7 +98,7 @@ python Text-to-Music.py
 
 🎓 Étudiant en Master – Passionné d’IA créative
 
-📧 [davidlutala0@gmail.com]
+📧 davidlutala0@gmail.com
 
 🌍 [LinkedIn : David LUTALA](https://www.linkedin.com/in/david-lutala-719952164/)
 
