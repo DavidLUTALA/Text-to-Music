@@ -1,3 +1,4 @@
+# Text-to-Music
 
 Une application qui convertit automatiquement du texte en audio, avec une touche originale : la possibilité de générer de la musique à partir de texte grâce à l’intelligence artificielle.
 
@@ -82,7 +83,7 @@ python Text-to-Music.py
 
 ---
 
-✨ Avenir du projet
+## ✨ Avenir du projet
 
 🎚️ Personnalisation de la voix (genre, émotion)
 
@@ -92,7 +93,7 @@ python Text-to-Music.py
 
 ---
 
-📬 Contact
+## 📬 Contact
 
 **David Lutala**
 
