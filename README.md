@@ -8,7 +8,7 @@ En tant qu’étudiant en Master passionné par les applications concrètes de l
 "Et si je pouvais écouter mes PDF au lieu de les lire ?"
 
 C’est ainsi qu’est née cette application : une solution intuitive et accessible pour transformer n’importe quel document texte en audio. Mais en y réfléchissant encore, je me suis dit :
-"Pourquoi ne pas aller plus loin ? Pourquoi ne pas transformer ces textes en musique générée par l’IA ? Ce serait bien plus fun, non ?"
+"Pourquoi ne pas aller plus loin ? Pourquoi ne pas transformer ces textes en musique générée par l’IA ? Ce serait bien plus fun."
 
 J’ai donc décidé de créer cet outil, à la croisée entre utilité et créativité, pour rendre mes lectures non seulement plus accessibles, mais aussi plus ludiques. C’est une application faite pour moi, pensée par nécessité, développée par passion — et que je partage aujourd’hui pour tous ceux qui, comme moi, veulent apprendre autrement.
 
