@@ -37,8 +37,33 @@ J’ai donc décidé de créer cet outil, à la croisée entre utilité et créa
 
 ## 🚀 Lancer l'application
 
-1. **Clone le dépôt :**
+1. **Clonez le dépôt :**
 
 ```bash
 git clone https://github.com/ton-compte/Text2AudioPlus.git
 cd Text-To-Music
+
+```
+
+2. **Créez un environnement virtuel (recommandé) :**
+
+```bash
+python -m venv venv
+source venv/bin/activate  # sous Linux/macOS
+venv\Scripts\activate     # sous Windows
+
+```
+
+3. **Installez les dépendances :**
+
+```bash
+pip install -r requirements.txt
+
+```
+
+4. Lance le script principal :
+
+```bash
+python Text-to-Music.py
+
+```
