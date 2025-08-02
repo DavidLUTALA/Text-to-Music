@@ -1,4 +1,4 @@
-# Text-to-Music
+<img width="876" height="95" alt="image" src="https://github.com/user-attachments/assets/6d9c57a2-40d9-4ac3-af07-d4e356c59bb2" /># Text-to-Music
 Une application qui convertit automatiquement du texte en audio, avec une touche originale : la possibilité de générer de la musique à partir de texte grâce à l’intelligence artificielle.
 
 
@@ -40,7 +40,7 @@ J’ai donc décidé de créer cet outil, à la croisée entre utilité et créa
 1. **Clonez le dépôt :**
 
 ```bash
-git clone https://github.com/ton-compte/Text2AudioPlus.git
+git clone https://github.com/DavidLUTALA/Text-to-Music.git
 cd Text-To-Music
 
 ```
@@ -67,3 +67,42 @@ pip install -r requirements.txt
 python Text-to-Music.py
 
 ```
+
+---
+
+## 🎯 Cas d’usage
+
+- Étudiants souhaitant écouter leurs cours en déplacement
+
+- Lecteurs malvoyants ou personnes avec des troubles de la lecture
+
+- Créateurs curieux de transformer du texte en musique algorithmique
+
+- Utilisateurs souhaitant une nouvelle façon d’interagir avec leurs documents
+
+---
+
+✨ Avenir du projet
+
+🎚️ Personnalisation de la voix (genre, émotion)
+
+🎼 Génération musicale multi-instruments
+
+📖 Interface de lecture visuelle + audio combinée
+
+---
+
+📬 Contact
+
+**David Lutala**
+
+🎓 Étudiant en Master – Passionné d’IA créative
+
+📧 [davidlutala0@gmail.com]
+
+🌍 [LinkedIn : David LUTALA](https://www.linkedin.com/in/david-lutala-719952164/)]
+
+
+
+> *"L’IA n’est pas seulement un outil d’automatisation. C’est aussi un moyen de rendre la connaissance plus vivante."*
+
