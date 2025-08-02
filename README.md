@@ -1,4 +1,4 @@
-<img width="876" height="95" alt="image" src="https://github.com/user-attachments/assets/6d9c57a2-40d9-4ac3-af07-d4e356c59bb2" /># Text-to-Music
+
 Une application qui convertit automatiquement du texte en audio, avec une touche originale : la possibilité de générer de la musique à partir de texte grâce à l’intelligence artificielle.
 
 
